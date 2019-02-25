@@ -1,4 +1,7 @@
-/* Global Gardens HTML Template */
+/* 
+	Copyright @ Shashutech Web Services (www.shashutech.me)
+	Developer - Kumar Shashwat
+*/
 /************ TABLE OF CONTENTS ***************
 1. Fonts
 2. Reset
@@ -2122,6 +2125,24 @@ img {
 	display: block;
 	background-color: rgba(113, 177, 0, 0.70);
 }
+.team-section p{
+	color: #fff;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.team-section .quote-image-icon{
+	height: 50px;
+	width: 50px;
+}
+
+.team-section .team-image{
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	display: block ;
+	margin: auto;
+}
 
 .team-section .owl-dots {
 	display: none;
@@ -2178,7 +2199,7 @@ img {
 .team-page-section .team-block-style-two .lower-box .designation {
 	font-size: 18px;
 	color: #666666;
-}
+} 
 
 /*** 
 
